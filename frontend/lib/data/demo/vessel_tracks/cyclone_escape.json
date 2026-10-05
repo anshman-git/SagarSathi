@@ -1,0 +1,48 @@
+{
+  "id": "cyclone_escape",
+  "name": "Offshore Vessel Escaping Approaching Cyclone",
+  "description": "Vessel 75 km offshore Chennai detects worsening waves (>3.2m) and gale winds, navigating safely back to Kasimedu harbour.",
+  "start_port": "Chennai Kasimedu",
+  "waypoints": [
+    {
+      "step": 0,
+      "lat": 13.15,
+      "lon": 80.95,
+      "speed_knots": 10,
+      "heading": 270,
+      "note": "Offshore fishing ground — Wind 55 km/h, Wave 3.4m (No-Go)"
+    },
+    {
+      "step": 1,
+      "lat": 13.145,
+      "lon": 80.75,
+      "speed_knots": 11,
+      "heading": 270,
+      "note": "Executing emergency return protocol"
+    },
+    {
+      "step": 2,
+      "lat": 13.14,
+      "lon": 80.55,
+      "speed_knots": 11,
+      "heading": 270,
+      "note": "Entering coastal shelf — Wave 2.2m"
+    },
+    {
+      "step": 3,
+      "lat": 13.13,
+      "lon": 80.38,
+      "speed_knots": 8,
+      "heading": 270,
+      "note": "Approaching outer anchorage Chennai"
+    },
+    {
+      "step": 4,
+      "lat": 13.125,
+      "lon": 80.298,
+      "speed_knots": 4,
+      "heading": 270,
+      "note": "Safely berthed at Kasimedu Fishing Harbour"
+    }
+  ]
+}

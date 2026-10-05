@@ -1,0 +1,950 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chennai_kasimedu",
+        "name": "Kasimedu Fishing Harbour",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "names": {
+          "ta": "காசிமேடு மீன்பிடித் துறைமுகம்",
+          "hi": "कासिमेडु मत्स्य बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.298,
+          13.125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mandapam",
+        "name": "Mandapam Landing Centre",
+        "district": "Ramanathapuram",
+        "state": "Tamil Nadu",
+        "names": {
+          "ta": "மண்டபம் இறங்குதளம்",
+          "hi": "मंडपम लैंडिंग केंद्र"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.125,
+          9.278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "rameswaram",
+        "name": "Rameswaram Fishing Jetty",
+        "district": "Ramanathapuram",
+        "state": "Tamil Nadu",
+        "names": {
+          "ta": "ராமேஸ்வரம் மீன்பிடி தளம்",
+          "hi": "रामेश्वरम मत्स्य जेटी"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3129,
+          9.2876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "nagapattinam",
+        "name": "Nagapattinam Port",
+        "district": "Nagapattinam",
+        "state": "Tamil Nadu",
+        "names": {
+          "ta": "நாகப்பட்டினம் துறைமுகம்",
+          "hi": "नागपट्टिनम बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.85,
+          10.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tuticorin_harbour",
+        "name": "Thoothukudi (Tuticorin) Harbour",
+        "district": "Thoothukudi",
+        "state": "Tamil Nadu",
+        "names": {
+          "ta": "தூத்துக்குடி மீன்பிடித் துறைமுகம்",
+          "hi": "थूथुकुडी बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1348,
+          8.7642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kanyakumari_chinnamuttam",
+        "name": "Chinnamuttam Fishing Harbour",
+        "district": "Kanyakumari",
+        "state": "Tamil Nadu",
+        "names": {
+          "ta": "சின்னமுட்டம் மீன்பிடித் துறைமுகம்",
+          "hi": "चिन्नमुट्टम बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5611,
+          8.0961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cuddalore",
+        "name": "Cuddalore Old Town Harbour",
+        "district": "Cuddalore",
+        "state": "Tamil Nadu",
+        "names": {
+          "ta": "கடலூர் மீன்பிடித் துறைமுகம்",
+          "hi": "कडलूर बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7714,
+          11.748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "veraval",
+        "name": "Veraval Fishing Harbour",
+        "district": "Gir Somnath",
+        "state": "Gujarat",
+        "names": {
+          "gu": "વેરાવળ મત્સ્ય બંદર",
+          "hi": "वेरावल मत्स्य बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.3667,
+          20.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "porbandar",
+        "name": "Porbandar Harbour",
+        "district": "Porbandar",
+        "state": "Gujarat",
+        "names": {
+          "gu": "પોરબંદર બંદર",
+          "hi": "पोरबंदर बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6083,
+          21.6417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "okha",
+        "name": "Okha Port",
+        "district": "Devbhumi Dwarka",
+        "state": "Gujarat",
+        "names": {
+          "gu": "ઓખા બંદર",
+          "hi": "ओखा बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.0667,
+          22.4667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mangrol",
+        "name": "Mangrol Landing Centre",
+        "district": "Junagadh",
+        "state": "Gujarat",
+        "names": {
+          "gu": "માંગરોળ લેન્ડિંગ સેન્ટર",
+          "hi": "मांगरोल लैंडिंग केंद्र"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.1167,
+          21.1167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jafrabad",
+        "name": "Jafrabad Fishing Jetty",
+        "district": "Amreli",
+        "state": "Gujarat",
+        "names": {
+          "gu": "જાફરાબાદ મત્સ્ય જેટી",
+          "hi": "जाफराबाद जेटी"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.3667,
+          20.8667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "jakhau",
+        "name": "Jakhau Port",
+        "district": "Kutch",
+        "state": "Gujarat",
+        "names": {
+          "gu": "જખૌ બંદર",
+          "hi": "जखौ बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.7,
+          23.2333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kochi_thoppumpady",
+        "name": "Kochi (Thoppumpady) Harbour",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "names": {
+          "ml": "തോപ്പുംപടി ഫിഷിംഗ് ഹാർബർ, കൊച്ചി",
+          "hi": "कोच्चि मत्स्य बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2673,
+          9.9312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vizhinjam",
+        "name": "Vizhinjam Harbour",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala",
+        "names": {
+          "ml": "വിഴിഞ്ഞം ഹാർബർ",
+          "hi": "विझिंजम बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.993,
+          8.3753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "munambam",
+        "name": "Munambam Fishing Harbour",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "names": {
+          "ml": "മുനമ്പം ഫിഷിംഗ് ഹാർബർ",
+          "hi": "मुनंबम बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1667,
+          10.1833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sakthikulangara",
+        "name": "Sakthikulangara Harbour",
+        "district": "Kollam",
+        "state": "Kerala",
+        "names": {
+          "ml": "ശക്തികുളങ്ങര ഹാർബർ",
+          "hi": "शक्तिकुलंगरा बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5333,
+          8.9333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "beypore",
+        "name": "Beypore Port",
+        "district": "Kozhikode",
+        "state": "Kerala",
+        "names": {
+          "ml": "ബേപ്പൂർ തുറമുഖം",
+          "hi": "बेपोर बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8,
+          11.1667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "thottappally",
+        "name": "Thottappally Spillway Centre",
+        "district": "Alappuzha",
+        "state": "Kerala",
+        "names": {
+          "ml": "തോട്ടപ്പള്ളി ഫിഷിംഗ് സെന്റർ",
+          "hi": "थोट्टापल्ली केंद्र"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3833,
+          9.3167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "visakhapatnam_fh",
+        "name": "Visakhapatnam Fishing Harbour",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "names": {
+          "te": "విశాఖపట్నం ఫిషింగ్ హార్బర్",
+          "hi": "विशाखापट्टनम मत्स्य बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2185,
+          17.6868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kakinada_fh",
+        "name": "Kakinada Fishing Harbour",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh",
+        "names": {
+          "te": "కాకినాడ ఫిషింగ్ హార్బర్",
+          "hi": "काकीनाडा बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2475,
+          16.9891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "machilipatnam",
+        "name": "Machilipatnam (Gilakaladindi)",
+        "district": "Krishna",
+        "state": "Andhra Pradesh",
+        "names": {
+          "te": "మచిలీపట్నం రేవు",
+          "hi": "मछिलिपटनम"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1667,
+          16.1667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "nizampatnam",
+        "name": "Nizampatnam Harbour",
+        "district": "Bapatla",
+        "state": "Andhra Pradesh",
+        "names": {
+          "te": "నిజాంపట్నం హార్బర్",
+          "hi": "निजामपट्टनम"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6667,
+          15.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "krishnapatnam",
+        "name": "Krishnapatnam Port",
+        "district": "Nellore",
+        "state": "Andhra Pradesh",
+        "names": {
+          "te": "కృష్ణపట్నం పోర్ట్",
+          "hi": "कृष्णपट्टनम"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1167,
+          14.25
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "mangalore_old_port",
+        "name": "Mangalore (Dhakke) Old Port",
+        "district": "Dakshina Kannada",
+        "state": "Karnataka",
+        "names": {
+          "kn": "ಮಂಗಳೂರು ಧಕ್ಕೆ ಮೀನುಗಾರಿಕಾ ಬಂದರು",
+          "hi": "मंगलुरु पुराना बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8344,
+          12.8533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "malpe_harbour",
+        "name": "Malpe Fishing Harbour",
+        "district": "Udupi",
+        "state": "Karnataka",
+        "names": {
+          "kn": "ಮಲ್ಪೆ ಮೀನುಗಾರಿಕಾ ಬಂದರು",
+          "hi": "माल्पे बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7,
+          13.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "karwar_baithkol",
+        "name": "Karwar (Baithkol) Harbour",
+        "district": "Uttara Kannada",
+        "state": "Karnataka",
+        "names": {
+          "kn": "ಕಾರವಾರ ಬೈತ್ಕೋಲ್ ಬಂದರು",
+          "hi": "कारवार बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1167,
+          14.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "honnavar",
+        "name": "Honnavar Jetty",
+        "district": "Uttara Kannada",
+        "state": "Karnataka",
+        "names": {
+          "kn": "ಹೊನ್ನಾವರ ಜೆಟ್ಟಿ",
+          "hi": "होन्नावर जेटी"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.45,
+          14.2833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gangolli",
+        "name": "Gangolli Port",
+        "district": "Udupi",
+        "state": "Karnataka",
+        "names": {
+          "kn": "ಗಂಗೊಳ್ಳಿ ಬಂದರು",
+          "hi": "गंगोली"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6833,
+          13.6333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sassoon_dock",
+        "name": "Sassoon Dock, Mumbai",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "names": {
+          "mr": "ससून डॉक, मुंबई",
+          "hi": "ससून डॉक, मुंबई"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.825,
+          18.9133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bhaucha_dhakka",
+        "name": "Bhaucha Dhakka (Ferry Wharf)",
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "names": {
+          "mr": "भाऊचा धक्का",
+          "hi": "भाउचा धक्का"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85,
+          18.95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ratnagiri_mirkarwada",
+        "name": "Mirkarwada Harbour, Ratnagiri",
+        "district": "Ratnagiri",
+        "state": "Maharashtra",
+        "names": {
+          "mr": "मिरकरवाडा बंदर, रत्नागिरी",
+          "hi": "रत्नागिरी मिरकरवाड़ा"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2833,
+          16.9833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "malvan_jetty",
+        "name": "Malvan Fishing Jetty",
+        "district": "Sindhudurg",
+        "state": "Maharashtra",
+        "names": {
+          "mr": "मालवण जेट्टी",
+          "hi": "मालवण जेटी"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4667,
+          16.0667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "satpati",
+        "name": "Satpati Fishermen Jetty",
+        "district": "Palghar",
+        "state": "Maharashtra",
+        "names": {
+          "mr": "सातपाटी जेट्टी",
+          "hi": "सातपाटी"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7,
+          19.7333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "paradip_fh",
+        "name": "Paradip Fishing Harbour",
+        "district": "Jagatsinghpur",
+        "state": "Odisha",
+        "names": {
+          "or": "ପାରାଦୀପ ମତ୍ସ୍ୟ ବନ୍ଦର",
+          "hi": "पारादीप मत्स्य बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.6833,
+          20.3167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dhamra",
+        "name": "Dhamra Port / Landing Centre",
+        "district": "Bhadrak",
+        "state": "Odisha",
+        "names": {
+          "or": "ଧାମରା ବନ୍ଦର",
+          "hi": "धामरा बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.95,
+          20.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puri_pentakota",
+        "name": "Pentakota Landing Centre, Puri",
+        "district": "Puri",
+        "state": "Odisha",
+        "names": {
+          "or": "ପେଣ୍ଠକଟା, ପୁରୀ",
+          "hi": "पूरी पेंटकोटा"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8333,
+          19.8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bahabalpur",
+        "name": "Bahabalpur Landing Centre",
+        "district": "Balasore",
+        "state": "Odisha",
+        "names": {
+          "or": "ବାହାବଳପୁର",
+          "hi": "बहाबलपुर"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0667,
+          21.5167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gopalpur",
+        "name": "Gopalpur Port",
+        "district": "Ganjam",
+        "state": "Odisha",
+        "names": {
+          "or": "ଗୋପାଳପୁର ବନ୍ଦର",
+          "hi": "गोपालपुर"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9,
+          19.2667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "digha_shankarpur",
+        "name": "Shankarpur Fishing Harbour, Digha",
+        "district": "Purba Medinipur",
+        "state": "West Bengal",
+        "names": {
+          "bn": "শঙ্করপুর মৎস্য বন্দর, দিঘা",
+          "hi": "दीघा शंकरपुर बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.5667,
+          21.6333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "kakdwip",
+        "name": "Kakdwip Fishing Harbour",
+        "district": "South 24 Parganas",
+        "state": "West Bengal",
+        "names": {
+          "bn": "কাকদ্বীপ মৎস্য বন্দর",
+          "hi": "काकद्वीप"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1833,
+          21.8667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "namkhana",
+        "name": "Namkhana Jetty",
+        "district": "South 24 Parganas",
+        "state": "West Bengal",
+        "names": {
+          "bn": "নামখানা জেটি",
+          "hi": "नामखाना"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2333,
+          21.7667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "frazerganj",
+        "name": "Frazerganj Fishing Centre",
+        "district": "South 24 Parganas",
+        "state": "West Bengal",
+        "names": {
+          "bn": "ফ্রেজারগঞ্জ",
+          "hi": "फ्रेजरगंज"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.25,
+          21.5833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "panaji_malim",
+        "name": "Malim Fishing Jetty, Goa",
+        "district": "North Goa",
+        "state": "Goa",
+        "names": {
+          "mr": "मालिम जेट्टी, गोवा",
+          "hi": "मालिम जेटी, गोवा"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.835,
+          15.505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "puducherry_fh",
+        "name": "Puducherry Fishing Harbour",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "names": {
+          "ta": "புதுச்சேரி மீன்பிடித் துறைமுகம்",
+          "hi": "पुदुचेरी बंदरगाह"
+        },
+        "disclaimer": "Indicative port coordinates for landing reference."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8333,
+          11.9167
+        ]
+      }
+    }
+  ]
+}

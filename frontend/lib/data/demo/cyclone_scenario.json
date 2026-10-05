@@ -1,0 +1,116 @@
+{
+  "name": "Severe Cyclonic Storm 'Sagarika'",
+  "basin": "North Indian Ocean (Bay of Bengal)",
+  "current_stage": "Cyclone Warning (Orange Message)",
+  "imd_stage_level": 3,
+  "source_badge": "DEMO",
+  "issued_time_ist": "2026-10-01 06:00 IST",
+  "central_pressure_hpa": 984,
+  "max_sustained_winds_kmh": 105,
+  "gusts_kmh": 125,
+  "fishermen_warning": "High risk: Total suspension of fishing operations along North Tamil Nadu, Puducherry and South Andhra Pradesh coasts. Fishermen out at sea advised to return to coast immediately.",
+  "affected_coasts": [
+    "North Tamil Nadu",
+    "Puducherry",
+    "South Andhra Pradesh"
+  ],
+  "current_pos": {
+    "lat": 12.1,
+    "lon": 82.2
+  },
+  "track": [
+    {
+      "time": "Day -2",
+      "lat": 10.5,
+      "lon": 85.0,
+      "stage": "Depression",
+      "wind_kmh": 50
+    },
+    {
+      "time": "Day -1",
+      "lat": 11.2,
+      "lon": 83.8,
+      "stage": "Deep Depression",
+      "wind_kmh": 65
+    },
+    {
+      "time": "Current (00h)",
+      "lat": 12.1,
+      "lon": 82.2,
+      "stage": "Severe Cyclonic Storm",
+      "wind_kmh": 105
+    },
+    {
+      "time": "+12h",
+      "lat": 12.7,
+      "lon": 81.3,
+      "stage": "Severe Cyclonic Storm",
+      "wind_kmh": 115
+    },
+    {
+      "time": "+24h (Landfall)",
+      "lat": 13.2,
+      "lon": 80.4,
+      "stage": "Landfall near Chennai/Pulicat",
+      "wind_kmh": 110
+    },
+    {
+      "time": "+36h",
+      "lat": 13.8,
+      "lon": 79.5,
+      "stage": "Depression (Inland)",
+      "wind_kmh": 55
+    }
+  ],
+  "cone_polygon": [
+    [
+      85.0,
+      10.5
+    ],
+    [
+      83.8,
+      11.2
+    ],
+    [
+      82.2,
+      12.1
+    ],
+    [
+      80.8,
+      12.6
+    ],
+    [
+      79.8,
+      13.4
+    ],
+    [
+      79.2,
+      14.2
+    ],
+    [
+      80.2,
+      14.5
+    ],
+    [
+      81.8,
+      13.8
+    ],
+    [
+      83.2,
+      12.8
+    ],
+    [
+      84.5,
+      11.9
+    ],
+    [
+      85.0,
+      10.5
+    ]
+  ],
+  "wind_radii": {
+    "gale_radius_km": 90,
+    "storm_radius_km": 180,
+    "rough_sea_radius_km": 300
+  }
+}

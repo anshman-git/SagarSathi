@@ -1,0 +1,513 @@
+{
+  "region": "Gulf of Mannar & Palk Bay",
+  "lat": 9.15,
+  "lon": 79.1,
+  "source_badge": "DEMO",
+  "summary": "Satellite indicators show a sustained warm SST anomaly (+1.2°C above 5-year mean) and a 34% drop in Chlorophyll-a over the past 3 weeks, accompanied by weakened coastal upwelling.",
+  "hypotheses": [
+    {
+      "rank": 1,
+      "title": "Marine Heatwave & Thermal Stratification",
+      "confidence": 0.85,
+      "evidence": "SST has exceeded the 90th percentile climatological threshold (+1.2°C anomaly) for 16 consecutive days, suppressing nutrient upwelling.",
+      "impact": "High: Pelagic fish schools (sardines/mackerel) migrate deeper or disperse away from warm surface waters."
+    },
+    {
+      "rank": 2,
+      "title": "Weakened Coastal Wind-Driven Upwelling",
+      "confidence": 0.75,
+      "evidence": "Alongshore southwest monsoon winds averaged only 14 km/h vs climatological 28 km/h, reducing Ekman pumping of nutrients.",
+      "impact": "Moderate to High: Primary chlorophyll production fell from 1.4 mg/m³ to 0.65 mg/m³."
+    },
+    {
+      "rank": 3,
+      "title": "Post-Monsoon Turbidity & River Discharge Gaps",
+      "confidence": 0.6,
+      "evidence": "Low regional runoff reduced coastal nutrient influx compared to previous 3-year averages.",
+      "impact": "Low to Moderate: Localized nearshore impact."
+    }
+  ],
+  "caveat": "Satellite indicators show strong oceanographic correlation; actual fish catch confirmation requires State Fisheries landing centre catch records.",
+  "time_series": [
+    {
+      "day": "Day -60",
+      "date": "2026-08-01",
+      "sst_actual": 28.2,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.4,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -59",
+      "date": "2026-08-02",
+      "sst_actual": 28.22,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.39,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -58",
+      "date": "2026-08-03",
+      "sst_actual": 28.24,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.37,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -57",
+      "date": "2026-08-04",
+      "sst_actual": 28.26,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.35,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -56",
+      "date": "2026-08-05",
+      "sst_actual": 28.28,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.34,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -55",
+      "date": "2026-08-06",
+      "sst_actual": 28.3,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.32,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -54",
+      "date": "2026-08-07",
+      "sst_actual": 28.32,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.31,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -53",
+      "date": "2026-08-08",
+      "sst_actual": 28.34,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.29,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -52",
+      "date": "2026-08-09",
+      "sst_actual": 28.36,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.28,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -51",
+      "date": "2026-08-10",
+      "sst_actual": 28.38,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.26,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -50",
+      "date": "2026-08-11",
+      "sst_actual": 28.4,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.25,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -49",
+      "date": "2026-08-12",
+      "sst_actual": 28.42,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.23,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -48",
+      "date": "2026-08-13",
+      "sst_actual": 28.44,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.22,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -47",
+      "date": "2026-08-14",
+      "sst_actual": 28.46,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.2,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -46",
+      "date": "2026-08-15",
+      "sst_actual": 28.48,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.19,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -45",
+      "date": "2026-08-16",
+      "sst_actual": 28.5,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.17,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -44",
+      "date": "2026-08-17",
+      "sst_actual": 28.52,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.16,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -43",
+      "date": "2026-08-18",
+      "sst_actual": 28.54,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.15,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -42",
+      "date": "2026-08-19",
+      "sst_actual": 28.56,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.13,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -41",
+      "date": "2026-08-20",
+      "sst_actual": 28.58,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.11,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -40",
+      "date": "2026-08-21",
+      "sst_actual": 28.6,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.1,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -39",
+      "date": "2026-08-22",
+      "sst_actual": 28.62,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.08,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -38",
+      "date": "2026-08-23",
+      "sst_actual": 28.64,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.07,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -37",
+      "date": "2026-08-24",
+      "sst_actual": 28.66,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.05,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -36",
+      "date": "2026-08-25",
+      "sst_actual": 28.68,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.04,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -35",
+      "date": "2026-08-26",
+      "sst_actual": 28.7,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.02,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -34",
+      "date": "2026-08-27",
+      "sst_actual": 28.72,
+      "sst_baseline": 28.1,
+      "chl_actual": 1.01,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -33",
+      "date": "2026-08-28",
+      "sst_actual": 28.74,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.99,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -32",
+      "date": "2026-08-29",
+      "sst_actual": 28.76,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.98,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -31",
+      "date": "2026-08-30",
+      "sst_actual": 28.78,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.96,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -30",
+      "date": "2026-08-31",
+      "sst_actual": 28.8,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.95,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -29",
+      "date": "2026-09-01",
+      "sst_actual": 28.82,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.93,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -28",
+      "date": "2026-09-02",
+      "sst_actual": 28.84,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.92,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -27",
+      "date": "2026-09-03",
+      "sst_actual": 28.86,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.9,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -26",
+      "date": "2026-09-04",
+      "sst_actual": 28.88,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.89,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -25",
+      "date": "2026-09-05",
+      "sst_actual": 28.9,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.87,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -24",
+      "date": "2026-09-06",
+      "sst_actual": 28.92,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.86,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -23",
+      "date": "2026-09-07",
+      "sst_actual": 28.94,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.84,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -22",
+      "date": "2026-09-08",
+      "sst_actual": 28.96,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.83,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -21",
+      "date": "2026-09-09",
+      "sst_actual": 28.98,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.81,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -20",
+      "date": "2026-09-10",
+      "sst_actual": 29.0,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.8,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -19",
+      "date": "2026-09-11",
+      "sst_actual": 29.52,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.78,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -18",
+      "date": "2026-09-12",
+      "sst_actual": 29.54,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.77,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -17",
+      "date": "2026-09-13",
+      "sst_actual": 29.56,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.75,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -16",
+      "date": "2026-09-14",
+      "sst_actual": 29.58,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.74,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -15",
+      "date": "2026-09-15",
+      "sst_actual": 29.6,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.72,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -14",
+      "date": "2026-09-16",
+      "sst_actual": 29.62,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.71,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -13",
+      "date": "2026-09-17",
+      "sst_actual": 29.64,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.69,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -12",
+      "date": "2026-09-18",
+      "sst_actual": 29.66,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.68,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -11",
+      "date": "2026-09-19",
+      "sst_actual": 29.68,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.66,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -10",
+      "date": "2026-09-20",
+      "sst_actual": 29.7,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.65,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -9",
+      "date": "2026-09-21",
+      "sst_actual": 29.72,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.63,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -8",
+      "date": "2026-09-22",
+      "sst_actual": 29.74,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.62,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -7",
+      "date": "2026-09-23",
+      "sst_actual": 29.76,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.6,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -6",
+      "date": "2026-09-24",
+      "sst_actual": 29.78,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.59,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -5",
+      "date": "2026-09-25",
+      "sst_actual": 29.8,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.57,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -4",
+      "date": "2026-09-26",
+      "sst_actual": 29.82,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.56,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -3",
+      "date": "2026-09-27",
+      "sst_actual": 29.84,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.54,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -2",
+      "date": "2026-09-28",
+      "sst_actual": 29.86,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.53,
+      "chl_baseline": 1.25
+    },
+    {
+      "day": "Day -1",
+      "date": "2026-09-29",
+      "sst_actual": 29.88,
+      "sst_baseline": 28.1,
+      "chl_actual": 0.51,
+      "chl_baseline": 1.25
+    }
+  ]
+}

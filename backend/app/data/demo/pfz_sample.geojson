@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "properties": {
+    "source": "Official INCOIS PFZ Advisory (Bundled Sample)",
+    "badge": "DEMO",
+    "valid_date": "2026-10-01",
+    "disclaimer": "Bundled sample advisory for demonstration. Official operational PFZ is published daily by INCOIS."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_chennai_1",
+        "sector": "Chennai - Kasimedu",
+        "bearing_deg": 115,
+        "distance_km": 38.5,
+        "depth_m": 45,
+        "sst_c": 28.4,
+        "chl_mg_m3": 0.85,
+        "target_species": "Pelagics (Mackerel, Sardine, Tuna)",
+        "source": "DEMO",
+        "type": "Official INCOIS PFZ"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.6,
+              13.0
+            ],
+            [
+              80.68,
+              13.02
+            ],
+            [
+              80.7,
+              12.92
+            ],
+            [
+              80.61,
+              12.9
+            ],
+            [
+              80.6,
+              13.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_nagapattinam_1",
+        "sector": "Nagapattinam",
+        "bearing_deg": 98,
+        "distance_km": 42.0,
+        "depth_m": 52,
+        "sst_c": 28.1,
+        "chl_mg_m3": 1.12,
+        "target_species": "Carangids, Seer fish",
+        "source": "DEMO",
+        "type": "Official INCOIS PFZ"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.2,
+              10.75
+            ],
+            [
+              80.3,
+              10.77
+            ],
+            [
+              80.32,
+              10.66
+            ],
+            [
+              80.21,
+              10.64
+            ],
+            [
+              80.2,
+              10.75
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pfz_veraval_1",
+        "sector": "Veraval Offshore",
+        "bearing_deg": 210,
+        "distance_km": 32.0,
+        "depth_m": 60,
+        "sst_c": 27.5,
+        "chl_mg_m3": 1.45,
+        "target_species": "Ribbon fish, Croakers, Squid",
+        "source": "DEMO",
+        "type": "Official INCOIS PFZ"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              70.18,
+              20.65
+            ],
+            [
+              70.28,
+              20.68
+            ],
+            [
+              70.3,
+              20.57
+            ],
+            [
+              70.19,
+              20.54
+            ],
+            [
+              70.18,
+              20.65
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

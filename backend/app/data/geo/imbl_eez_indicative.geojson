@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "India - Sri Lanka IMBL (Palk Strait & Gulf of Mannar)",
+        "tier": "CRITICAL",
+        "type": "IMBL",
+        "disclaimer": "Indicative boundary for decision support — not for legal navigation. Follow official charts/authorities."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            79.84,
+            10.08
+          ],
+          [
+            79.52,
+            9.8
+          ],
+          [
+            79.378,
+            9.53
+          ],
+          [
+            79.31,
+            9.363
+          ],
+          [
+            79.35,
+            9.1
+          ],
+          [
+            79.25,
+            8.8
+          ],
+          [
+            78.9,
+            8.35
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "India - Pakistan Maritime Boundary (Sir Creek / Gujarat)",
+        "tier": "CRITICAL",
+        "type": "IMBL",
+        "disclaimer": "Indicative boundary for decision support — not for legal navigation. Follow official charts/authorities."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            68.12,
+            23.6
+          ],
+          [
+            67.8,
+            23.3
+          ],
+          [
+            67.4,
+            23.0
+          ],
+          [
+            66.5,
+            22.3
+          ],
+          [
+            65.5,
+            21.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "India - Bangladesh Maritime Boundary Line",
+        "tier": "CRITICAL",
+        "type": "IMBL",
+        "disclaimer": "Indicative boundary for decision support — not for legal navigation."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            89.15,
+            21.65
+          ],
+          [
+            89.25,
+            21.2
+          ],
+          [
+            89.4,
+            20.6
+          ],
+          [
+            89.8,
+            19.5
+          ],
+          [
+            90.4,
+            18.0
+          ]
+        ]
+      }
+    }
+  ]
+}

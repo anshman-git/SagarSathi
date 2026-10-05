@@ -1,0 +1,40 @@
+{
+  "id": "mpa_approach",
+  "name": "Vessel Approaching Gulf of Mannar Protected Coral Reef",
+  "description": "Vessel approaching strict No-Fishing zone of Gulf of Mannar Marine National Park.",
+  "start_port": "Thoothukudi Harbour",
+  "waypoints": [
+    {
+      "step": 0,
+      "lat": 8.7642,
+      "lon": 78.1348,
+      "speed_knots": 9,
+      "heading": 65,
+      "note": "Departing Thoothukudi"
+    },
+    {
+      "step": 1,
+      "lat": 8.82,
+      "lon": 78.25,
+      "speed_knots": 9,
+      "heading": 65,
+      "note": "Approaching outer MPA buffer zone (Advisory)"
+    },
+    {
+      "step": 2,
+      "lat": 8.87,
+      "lon": 78.35,
+      "speed_knots": 9,
+      "heading": 65,
+      "note": "Alert: Entering 2 nm buffer of Coral Sanctuary"
+    },
+    {
+      "step": 3,
+      "lat": 8.91,
+      "lon": 78.43,
+      "speed_knots": 9,
+      "heading": 65,
+      "note": "CRITICAL: Near Marine NP Boundary — Fishing Prohibited"
+    }
+  ]
+}

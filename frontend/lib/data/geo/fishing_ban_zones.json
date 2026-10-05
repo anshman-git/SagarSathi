@@ -1,0 +1,26 @@
+{
+  "east_coast": {
+    "coasts": [
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Odisha",
+      "West Bengal",
+      "Puducherry"
+    ],
+    "start_month_day": "04-15",
+    "end_month_day": "06-14",
+    "description": "Uniform 61-day ban on East Coast during peak breeding season (April 15 to June 14). Verify with State Fisheries Dept."
+  },
+  "west_coast": {
+    "coasts": [
+      "Kerala",
+      "Karnataka",
+      "Goa",
+      "Maharashtra",
+      "Gujarat"
+    ],
+    "start_month_day": "06-01",
+    "end_month_day": "07-31",
+    "description": "Uniform 61-day monsoon ban on West Coast (June 1 to July 31). Traditional non-motorised craft exempt in specific zones."
+  }
+}

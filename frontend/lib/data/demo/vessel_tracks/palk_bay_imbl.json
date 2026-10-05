@@ -1,0 +1,56 @@
+{
+  "id": "palk_bay_imbl",
+  "name": "Mandapam Trawler Heading toward Sri Lanka IMBL",
+  "description": "Vessel leaves Mandapam port and moves eastward across Palk Bay, triggering Advisory (10nm), Alert (5nm), and Critical (2nm) IMBL geofence warnings.",
+  "start_port": "Mandapam Landing Centre",
+  "waypoints": [
+    {
+      "step": 0,
+      "lat": 9.278,
+      "lon": 79.125,
+      "speed_knots": 8,
+      "heading": 85,
+      "note": "Departing Mandapam Harbour"
+    },
+    {
+      "step": 1,
+      "lat": 9.283,
+      "lon": 79.195,
+      "speed_knots": 9,
+      "heading": 85,
+      "note": "Cruising east in Indian territorial waters"
+    },
+    {
+      "step": 2,
+      "lat": 9.29,
+      "lon": 79.26,
+      "speed_knots": 9,
+      "heading": 85,
+      "note": "Passing north of Rameswaram Island"
+    },
+    {
+      "step": 3,
+      "lat": 9.3,
+      "lon": 79.32,
+      "speed_knots": 9,
+      "heading": 85,
+      "note": "Approaching IMBL 10 nm buffer — Advisory Tier"
+    },
+    {
+      "step": 4,
+      "lat": 9.31,
+      "lon": 79.37,
+      "speed_knots": 9,
+      "heading": 85,
+      "note": "Inside 5 nm Alert zone — Warning to turn back"
+    },
+    {
+      "step": 5,
+      "lat": 9.32,
+      "lon": 79.41,
+      "speed_knots": 9,
+      "heading": 85,
+      "note": "CRITICAL: 1.2 nm from Sri Lanka IMBL — Turn-back heading 265° recommended"
+    }
+  ]
+}
